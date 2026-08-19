@@ -75,15 +75,15 @@ npm run dev
 
 App on <http://localhost:5173>. Vite proxies `/api` to port 8000, so the browser
 only ever talks to one origin and CORS never enters the picture in development.
-
+<!--
 ### 3. Sign in
 
 | Role | Email | Password |
 |---|---|---|
 | Admin | `admin@savora.in` | `admin123` |
-| Customer | `customer@savora.in` | `customer123` |
+| Customer | `customer@savora.in` | `customer123` |   
 
-The login screen has buttons that fill these in.
+The login screen has buttons that fill these in. -->
 
 ### Enabling the AI path
 
